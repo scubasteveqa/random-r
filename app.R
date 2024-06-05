@@ -11,7 +11,7 @@ library(shiny)
 library(hhi)
 library(kfda)
 library(loo)
-
+library(rmarkdown)
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(
